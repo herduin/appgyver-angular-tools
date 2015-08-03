@@ -1,0 +1,14 @@
+{
+  "name": "appgyver-angular-tools",
+  "version": "1.0.0",
+  "authors": [
+    "🎯 Herduin Rivera [CEO] <hrivera@exus.co>",
+    "email": "hrivera@exus.com.co"
+  ],
+  "description": "Kit de herramientas de Exus para desarrollo con Angular y AppGyver",
+  "main": "api/api.js",
+  "keywords": [
+    "PageGear"
+  ],
+  "homepage": "http://www.exus.com.co"
+}
